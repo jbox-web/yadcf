@@ -1,0 +1,42 @@
+{
+  "name": "yadcf",
+  "version": "0.8.9",
+  "description": "Yet Another DataTables Column Filter (yadcf)",
+  "main": "dist/js/yadcf.js",
+  "style": "dist/css/yadcf.css",
+  "files": [
+    "dist/js/*.js",
+    "dist/css/*.css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jbox-web/yadcf",
+  "author": {
+    "name": "Daniel Reznick",
+    "url": "https://github.com/vedmack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbox-web/yadcf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbox-web/yadcf/issues"
+  },
+  "keywords": [
+    "filter",
+    "datatables",
+    "jQuery",
+    "jquery-plugin",
+    "plugin",
+    "column"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "devDependencies": {
+    "eslint-plugin-coffeescript": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-coffee": "^3.0.3",
+    "gulp-coffeelint": "^0.6.0",
+    "gulp-eslint": "^6.0.0"
+  }
+}
