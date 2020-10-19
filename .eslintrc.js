@@ -1,26 +1,36 @@
 module.exports = {
+  "parser": "eslint-plugin-coffee",
   "env": {
     "browser": true,
     "node": true
   },
   "plugins": [
-    "coffeescript"
+    "coffee"
   ],
   "extends": [
-    "eslint:recommended"
+    "plugin:coffee/eslint-recommended"
   ],
   "globals": {
     "define": true,
     "jQuery": true,
   },
   "rules": {
+    "no-empty": [
+      "warn"
+    ],
+    "no-prototype-builtins": [
+      "warn"
+    ],
+    "coffee/no-unused-vars": [
+      "warn"
+    ],
     "no-unused-vars": [
       "warn",
       {
         "argsIgnorePattern": "^_"
       }
     ],
-    "no-prototype-builtins": [
+    "coffee/no-useless-escape": [
       "warn"
     ],
     "no-useless-escape": [
