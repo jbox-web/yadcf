@@ -1,5 +1,5 @@
 ---
-name: Yadcf CI
+name: Github CI
 on:
   - push
   - pull_request

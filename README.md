@@ -1,7 +1,7 @@
 # yadcf - Yet Another DataTables Column Filter
 
 [![GitHub license](https://img.shields.io/github/license/jbox-web/yadcf.svg)](https://github.com/jbox-web/yadcf/blob/master/LICENSE)
-[![Build Status](https://github.com/jbox-web/yadcf/workflows/Yadcf%20CI/badge.svg?branch=master)](https://github.com/jbox-web/yadcf/actions)
+[![Build Status](https://github.com/jbox-web/yadcf/workflows/Github%20CI/badge.svg?branch=master)](https://github.com/jbox-web/yadcf/actions)
 
 This jQuery plug-in allows the user to easily add filter components to table columns, the plug-in works on top of the DataTables jQuery plug-in.
 
