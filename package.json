@@ -30,7 +30,7 @@
     "column"
   ],
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": ">=3.5.0"
   },
   "devDependencies": {
     "eslint": "^7.12.0",
