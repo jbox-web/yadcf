@@ -40,4 +40,4 @@ jobs:
           yarn install
 
       - name: Run Gulp
-        run: gulp
+        run: yarn run gulp
