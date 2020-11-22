@@ -33,7 +33,7 @@
     "jquery": ">=3.5.0"
   },
   "devDependencies": {
-    "eslint": "^7.12.0",
+    "eslint": "^7.14.0",
     "eslint-plugin-coffee": "^0.1.13",
     "gulp": "^4.0.2",
     "gulp-coffee": "^3.0.3",
